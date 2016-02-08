@@ -1,6 +1,6 @@
 name: 'Walter&Donny'
 favicon: null
-layout_spectrum: 0.02411
+layout_spectrum: 0.83741
 typography_spectrum: 0.36706
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#e3e3e3'
   brandStrength: 0.875
   lightness: 0.8125
-  saturation: 0.5
+  saturation: 0.375
   rhythmicContrast: 0.75
 purpose: []
