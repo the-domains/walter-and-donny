@@ -1,0 +1,28 @@
+name: 'Walter&Donny'
+favicon: null
+layout_spectrum: 0.8585925260558724
+typography_spectrum: 0.09869744046591222
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6720743814948946
+  lightness: 0.8241072879172862
+  saturation: 0.9060159423388541
+  rhythmicContrast: 0.6748413217719644
+purpose: []
