@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Walter&Donny]]></title>
+        <description><![CDATA[Walter&Donny]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 08 Feb 2016 18:09:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Walter & Donny</p>]]></description>
+            <link>undefined34275720-be10-4358-a501-c43d0f5a764f/index.html</link>
+            <guid isPermaLink="false">34275720-be10-4358-a501-c43d0f5a764f</guid>
+            <pubDate>Mon, 08 Feb 2016 18:09:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
