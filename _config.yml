@@ -6,9 +6,9 @@ color:
     - '#0791f5'
     - '#0738fe'
     - '#e3e3e3'
-  brandStrength: 0.875
+  brandStrength: 1
   lightness: 0.8125
-  rhythmicContrast: 0.75
+  rhythmicContrast: 1
   saturation: 0.375
 cta: {}
 layout_spectrum: 1
