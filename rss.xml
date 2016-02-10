@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Walter and Donny Official Music Site]]></title>
         <description><![CDATA[Walter and Donny Official Music Site]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/walter-and-donny/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 16:42:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Feb 2016 21:23:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/walter-and-donny/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7052af7-e5c2-473c-be0a-8faafd715a54.png">]]></description>
-            <link>undefinedb1e7f5e4-6617-4d80-9874-9b02c9ce699b/index.html</link>
+            <link>https://thegrid.ai/walter-and-donny/b1e7f5e4-6617-4d80-9874-9b02c9ce699b/index.html</link>
             <guid isPermaLink="false">b1e7f5e4-6617-4d80-9874-9b02c9ce699b</guid>
             <pubDate>Wed, 10 Feb 2016 16:38:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/48d461bd-e135-47fa-b23a-ed9a5840cee2.jpg">]]></description>
+            <link>https://thegrid.ai/walter-and-donny/3ecf53f6-d0c7-4658-a920-37196dc92326/index.html</link>
+            <guid isPermaLink="false">3ecf53f6-d0c7-4658-a920-37196dc92326</guid>
+            <pubDate>Wed, 10 Feb 2016 21:23:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
