@@ -1,6 +1,6 @@
 name: Walter and Donny
 favicon: null
-layout_spectrum: 0.48482
+layout_spectrum: 1
 typography_spectrum: 0.59037
 title: Walter and Donny Official Music Site
 cta:
@@ -22,8 +22,8 @@ color:
     - '#0791f5'
     - '#0738fe'
     - '#e3e3e3'
-  brandStrength: 1
-  lightness: 0.8125
-  saturation: 0.375
+  brandStrength: 0
+  lightness: 0
+  saturation: 0
   rhythmicContrast: 1
 purpose: []
