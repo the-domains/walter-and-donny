@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Walter & Donny performs Cosmic Americana -- a mix of Americana pop songs blending in an alt-country feel and elements of space-rock. You might hear elements of classics like The Beatles or The Allman'
-datePublished: '2016-04-25T05:26:47.522Z'
-dateModified: '2016-04-25T05:26:27.800Z'
+datePublished: '2016-04-25T05:36:11.537Z'
+dateModified: '2016-04-25T05:26:58.886Z'
 author:
   - name: Walter and Donny
     url: 'http://soundcloud.com/walter-and-donny'
