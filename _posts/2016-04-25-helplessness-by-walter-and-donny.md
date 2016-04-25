@@ -1,16 +1,18 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://soundcloud.com/walter-and-donny/helplessness'
+inLanguage: null
+keywords: []
+description: 'Walter & Donny performs Cosmic Americana -- a mix of Americana pop songs blending in an alt-country feel and elements of space-rock. You might hear elements of classics like The Beatles or The Allman'
+datePublished: '2016-04-25T05:16:44.083Z'
+dateModified: '2016-04-25T05:14:52.963Z'
 author:
   - name: Walter and Donny
     url: 'http://soundcloud.com/walter-and-donny'
     avatar: {}
 related: []
-publisher:
-  url: 'http://soundcloud.com'
-  name: SoundCloud
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-  domain: soundcloud.com
-keywords: []
-description: 'Walter & Donny performs Cosmic Americana -- a mix of Americana pop songs blending in an alt-country feel and elements of space-rock. You might hear elements of classics like The Beatles or The Allman'
 app_links:
   - type: ios
     namespace: ai
@@ -48,16 +50,16 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://soundcloud.com/walter-and-donny/helplessness'
 title: Helplessness by Walter and Donny
-datePublished: '2016-04-25T05:09:26.887Z'
-dateModified: '2016-04-25T05:08:09.784Z'
-starred: false
 sourcePath: _posts/2016-04-25-helplessness-by-walter-and-donny.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: SoundCloud
+  domain: soundcloud.com
+  url: 'http://soundcloud.com'
+  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
+starred: false
 _type: AudioObject
 _context: 'http://schema.org'
 
