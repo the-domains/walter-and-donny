@@ -1,13 +1,12 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://soundcloud.com/walter-and-donny/helplessness'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 keywords: []
 description: 'Walter & Donny performs Cosmic Americana -- a mix of Americana pop songs blending in an alt-country feel and elements of space-rock. You might hear elements of classics like The Beatles or The Allman'
-datePublished: '2016-04-25T05:16:44.083Z'
-dateModified: '2016-04-25T05:14:52.963Z'
+datePublished: '2016-04-25T05:26:47.522Z'
+dateModified: '2016-04-25T05:26:27.800Z'
 author:
   - name: Walter and Donny
     url: 'http://soundcloud.com/walter-and-donny'
@@ -60,6 +59,7 @@ publisher:
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
 starred: false
+url: helplessness-by-walter-and-donny/index.html
 _type: AudioObject
 _context: 'http://schema.org'
 
