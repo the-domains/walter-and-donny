@@ -1,20 +1,4 @@
-name: Walter and Donny
-favicon: null
-layout_spectrum: 0.4842
 typography_spectrum: 0.55534
-title: Walter and Donny Official Music Site
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#360468'
@@ -26,4 +10,24 @@ color:
   lightness: 0.3125
   saturation: 0.8125
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.4842
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Walter and Donny
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Helplessness
+    id: 92b43c48-db06-4803-b3af-b4bc40753bd6
+    type: content
+favicon: null
+title: Walter and Donny Official Music Site
 purpose: []
