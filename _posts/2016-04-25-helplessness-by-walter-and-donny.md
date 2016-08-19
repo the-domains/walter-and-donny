@@ -4,9 +4,12 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'Walter & Donny performs Cosmic Americana -- a mix of Americana pop songs blending in an alt-country feel and elements of space-rock. You might hear elements of classics like The Beatles or The Allman'
-datePublished: '2016-04-25T05:36:11.537Z'
-dateModified: '2016-04-25T05:26:58.886Z'
+description: >-
+  Walter & Donny performs Cosmic Americana -- a mix of Americana pop songs
+  blending in an alt-country feel and elements of space-rock. You might hear
+  elements of classics like The Beatles or The Allman
+datePublished: '2016-08-19T06:54:29.050Z'
+dateModified: '2016-08-19T06:54:28.139Z'
 author:
   - name: Walter and Donny
     url: 'http://soundcloud.com/walter-and-donny'
@@ -51,13 +54,13 @@ app_links:
     type: ios
 title: Helplessness by Walter and Donny
 sourcePath: _posts/2016-04-25-helplessness-by-walter-and-donny.md
-published: true
 authors: []
 publisher:
   name: SoundCloud
   domain: soundcloud.com
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
+via: {}
 starred: false
 url: helplessness-by-walter-and-donny/index.html
 _type: AudioObject
